@@ -614,7 +614,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02734500GUJ0PG8C</string>
+			<string>C02044600CDLNV9AD</string>
 			<key>ProcessorType</key>
 			<integer>1541</integer>
 			<key>ROM</key>
@@ -624,11 +624,11 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMac18,3</string>
+			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02V80HPJ1GJ</string>
+			<string>C02DM01NJV3Q</string>
 			<key>SystemUUID</key>
-			<string>6DB41691-AF04-4D51-9408-D81DEB3F7F2F</string>
+			<string>6223F2B4-0C96-4E5B-A6B1-57D0CDA84A05</string>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
