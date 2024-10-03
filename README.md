@@ -7,7 +7,7 @@ Memory             16 GB 2400 MHz DDR4
 Graphics           AMD Radeon RX 570 4 GB
 Audio              Realtek ALC892
 Ethernet           Intel I219-V
-Wi-Fi              
+Wi-Fi              Intel AX210
 Monitor            2560x1440
 BIOS Verison       E7A69IMS.260 06/29/2018
 macOS Verison      Ventura 13.7
