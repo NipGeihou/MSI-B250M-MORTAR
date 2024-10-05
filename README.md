@@ -13,3 +13,20 @@ BIOS Verison       E7A69IMS.260 06/29/2018
 macOS Verison      Ventura 13.7
 OpenCore Version   1.0.1
 ```
+
+## Geekbench 6
+
+### CPU
+
+```
+Single-Core Socre				1395
+Multi-Core Score				3901
+```
+
+### GPU
+
+```
+GPU OpenCL Score				37350
+GPU Metal Score					41819
+```
+
