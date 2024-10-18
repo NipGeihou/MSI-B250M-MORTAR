@@ -1,8 +1,9 @@
 # Hackintosh OpenCore EFI for MSI B250M MORTAR
+
 ```
 Model              MSI B250M MORTAR
 Mainboard          Intel B250M
-CPU                Intel Core i3-9100F
+CPU                Intel Core i3-9100F / i5-9600KF
 Memory             16 GB 2400 MHz DDR4
 Graphics           AMD Radeon RX 570 4 GB
 Audio              Realtek ALC892
@@ -19,14 +20,16 @@ OpenCore Version   1.0.1
 ### CPU
 
 ```
-Single-Core Socre				1395
-Multi-Core Score				3901
+# i3-9100F
+Single-Core Socre                1395
+Multi-Core Score                3901
 ```
 
 ### GPU
 
 ```
-GPU OpenCL Score				37350
-GPU Metal Score					41819
+GPU OpenCL Score                37350
+GPU Metal Score                    41819
 ```
+
 
