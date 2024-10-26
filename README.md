@@ -23,6 +23,10 @@ OpenCore Version   1.0.1
 # i3-9100F
 Single-Core Socre                1395
 Multi-Core Score                3901
+
+# i5-9600KF
+Single-Core Socre                1445
+Multi-Core Score                5164
 ```
 
 ### GPU
@@ -31,5 +35,4 @@ Multi-Core Score                3901
 GPU OpenCL Score                37350
 GPU Metal Score                    41819
 ```
-
 
